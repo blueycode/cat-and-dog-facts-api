@@ -9,7 +9,7 @@
     <em>A simple API developed with Node.js that returns random facts about cats and dogs</em>
     <br />
     <br />
-    <a href="https://cat-and-dog-facts-api.herokuapp.com/cat">View Demo</a>
+    <a href="https://reindeer-glasses.cyclic.app/cat">View Demo</a>
     ·
     <a href="https://github.com/blueycode/cat-and-dog-facts-api/issues">Report Bug</a>
     ·
@@ -38,7 +38,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 <!-- LIVE DEMO -->
 ### Live Demo
 
-You can check a running version of this project <a href="https://cat-and-dog-facts-api.herokuapp.com/cat">here</a>
+You can check a running version of this project <a href="https://reindeer-glasses.cyclic.app/cat">here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
